@@ -2,12 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import Cv from './components/Cv'
+import Screens from './Screens/CV'
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Cv />
+    <Screens />
   </React.StrictMode>,
   document.getElementById('root')
 );

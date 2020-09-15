@@ -1,0 +1,31 @@
+@media screen and (max-width:900px){
+    .containere{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background: chocolate; 
+}
+.Asi{
+ display: none;
+}
+}
+
+@media screen and (min-width:900px){
+    .containere{
+        display: grid;
+        width: 100%;
+        grid-template-columns: 660px 600px;
+        grid-template-areas: 
+        "Cv Asi "
+        ;
+        background: chocolate;
+}
+.Cv{
+    grid-area: Cv;
+}
+.Asi{
+    grid-area: Asi;
+}
+}
+
+

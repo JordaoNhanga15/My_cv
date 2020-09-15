@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    flex: 1;
+    background:url('../../Assets/27.jpg') ;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    /* background: chartreuse; */
+    
+} 
+/* <img src={require("../Assets/27.jpg")} alt="" class="profile"></img> */

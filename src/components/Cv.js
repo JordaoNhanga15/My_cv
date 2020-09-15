@@ -38,18 +38,18 @@ I decided to do my cover letter with some of my projects<br></br> "If you  never
 
                 </div>
                 <h2>My project work</h2>  
-                <div className="project">
-                    <img src={require("../Assets/1.jpg")} alt=""/>
+                <div className="project">  
+                    <img src={require("../Assets/Captura95.png")} alt=""/>
                   
                 </div>   
                 <div className="project">
-                    <img src={require("../Assets/2.jpg")} alt=""/>                                       
+                    <img src={require("../Assets/Captura97.png")} alt=""/>                                       
                 </div>  
                 <div className="project">
-                    <img src={require("../Assets/3.png")} alt=""/>                   
+                    <img src={require("../Assets/Captura100.png")} alt=""/>                   
                 </div>  
                 <div className="project">
-                    <img src={require("../Assets/5.png")} alt=""/>                  
+                    <img src={require("../Assets/Captura98.png")} alt=""/>                  
                  </div>  
                  <div className="project">
                 <img src={require("../Assets/27.jpg")} alt=""/>                  
